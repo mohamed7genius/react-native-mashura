@@ -1,7 +1,7 @@
 {
   "name": "react-native-mashura",
   "version": "0.1.0",
-  "description": "Collect feedbacks about requested features from users",
+  "description": "Empower your users to suggest and vote on new features, so you can build what truly matters.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
   "exports": {

@@ -4,6 +4,13 @@ Collect feedbacks about requested features from users
 
 ## Installation
 
+Using `yarn`
+
+```sh
+yarn add react-native-mashura
+```
+
+Or using `npm`
 
 ```sh
 npm install react-native-mashura
@@ -12,14 +19,7 @@ npm install react-native-mashura
 
 ## Usage
 
-
-```js
-import { multiply } from 'react-native-mashura';
-
-// ...
-
-const result = await multiply(3, 7);
-```
+Under developemnt 🧑‍🍳
 
 
 ## Contributing
@@ -31,7 +31,3 @@ const result = await multiply(3, 7);
 ## License
 
 MIT
-
----
-
-Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
