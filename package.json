@@ -1,6 +1,6 @@
 {
   "name": "react-native-mashura",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Empower your users to suggest and vote on new features, so you can build what truly matters.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -42,8 +42,20 @@
   },
   "keywords": [
     "react-native",
-    "ios",
-    "android"
+    "feedback",
+    "feature-request",
+    "feature-voting",
+    "mobile-sdk",
+    "in-app-feedback",
+    "user-feedback",
+    "react-native-ui",
+    "feedback-module",
+    "feature-board",
+    "suggestion-box",
+    "wishlist",
+    "feature-tracker",
+    "native-mashura",
+    "mashura"
   ],
   "repository": {
     "type": "git",
